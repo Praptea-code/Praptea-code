@@ -84,7 +84,6 @@ A modern, responsive e‑commerce website template built for a fictional watch b
 
 
 <br>
-<br>
 
 <hr style="height:4px; border:none; background-color:black;">
 
@@ -123,7 +122,7 @@ A modern, responsive e‑commerce website template built for a fictional watch b
 
 ###
 <br>
-
+<hr style="height:4px; border:none; background-color:black;">
 <h3 align="left">☆Lets get connected </h3>
 
 ###
