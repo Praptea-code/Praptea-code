@@ -123,8 +123,6 @@ A modern, responsive e‑commerce website template built for a fictional watch b
 
 ###
 <br>
-<br>
-<hr style="height:4px; border:none; background-color:black;">
 
 <h3 align="left">☆Lets get connected </h3>
 
@@ -140,11 +138,8 @@ A modern, responsive e‑commerce website template built for a fictional watch b
 ###
 <br>
 
-<hr style="height:4px; border:none; background-color:black;">
-<br>
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
 </div>
 
-###
 ###
